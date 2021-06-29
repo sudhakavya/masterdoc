@@ -1,11 +1,11 @@
 [ {
-  "Name" : "Create a virtual machine in the portal",
-  "Language" : "English",
-  "File" : [
+  "Name": "Module 6: Azure IoT Edge Deployment Process",
+  "Language": "English",
+  "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
+  "Files": [
     {
-    "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/01-Create%20a%20virtual%20machine.md",
-    "Order": 1
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/01-Create%20a%20virtual%20machine.md",
+      "Order": 1
     }
-    ]
-    }
- ]
+  ]
+}]
