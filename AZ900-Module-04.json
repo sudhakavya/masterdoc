@@ -1,0 +1,11 @@
+[ {
+  "Name": "Module 04-Create a virtual network",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/tree/prod",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/04-Create%20a%20virtual%20network.md",
+      "Order": 1
+    }
+    ]
+}]
